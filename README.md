@@ -1,0 +1,2 @@
+Resumen
+Este trabajo práctico se centra en la predicción del precio por metro cuadrado de propiedades residenciales en Rosario utilizando técnicas de machine learning. Se desarrollaron modelos basados en redes neuronales recurrentes LSTM para analizar datos históricos y proporcionar estimaciones precisas. El proyecto busca mejorar la transparencia del mercado, optimizar decisiones de compra-venta y facilitar inversiones mediante herramientas predictivas robustas y eficientes.
